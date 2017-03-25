@@ -1,0 +1,15 @@
+.centeringIMG{
+	display: block;
+	margin: auto;
+	
+}
+
+.centering{
+	margin: auto;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background: #FEFBA5;
+}
