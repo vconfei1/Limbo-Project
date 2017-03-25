@@ -1,0 +1,46 @@
+/*
+Jessica Rieger and Victoria Confeiteiro
+December 4, 2016
+Lost Item style sheet
+*/
+
+/*
+Changes background color
+*/
+body {
+	background: #FEFBA5;
+}
+
+/*
+Centers items on the form
+Changes he font style
+*/
+.custom{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+/*
+All div tags are used to place links to the upper right corner of the form
+Used to help users navigate through limbo
+*/
+.div1{
+	position: absolute;
+	top:105px;
+	right: 0px;
+	color: black;
+}
+
+.div2{
+	position: absolute;
+	top: 105px;
+	right: 215px;
+	color: black;
+}
+
+.div3{
+	position: absolute;
+	top: 105px;
+	right: 400px;
+	color: black;
+}
