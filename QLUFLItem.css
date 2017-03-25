@@ -1,0 +1,76 @@
+/*
+Jessica Rieger and Victoria Confeiteiro
+December 4, 2016
+Quick Links Style Sheet
+*/
+
+/*
+Changes background color on the page
+*/
+body{
+	background-color: #FEFBA5;
+}
+
+.custom{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+/*
+All div tags are used to place links in the top right color of the page
+Used to help the user navigate limbo
+*/
+.div1{
+	position: absolute;
+	top: 105px;
+	right: 0px;
+	color: black;
+}
+
+.div2{
+	position: absolute;
+	top: 105px;
+	right: 145px;
+	color: black;
+}
+
+.div3{
+	position: absolute;
+	top: 105px;
+	right: 285px;
+	
+	color: black;
+}
+
+/*
+Centers items on the page
+*/
+.centeringIMG{
+	display: block;
+	margin: auto;
+}
+
+.centering{
+	margin: auto;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
